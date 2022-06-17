@@ -1,0 +1,2 @@
+git config --global credential.github.com.useHttpPath true --- to use multiple credential in git 
+
